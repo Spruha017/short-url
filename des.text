@@ -1,0 +1,5 @@
+ npm init
+ npm i expres
+ npm i mongoose - for db
+
+ npm i nanoid /shortid- for url shortner 
